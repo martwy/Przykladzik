@@ -1,1 +1,3 @@
 # Przykladzik
+
+Dokonano zmiany
